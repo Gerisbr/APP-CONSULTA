@@ -32,6 +32,8 @@ Javascript
 jQuery
 Bootstrap
 SQL - Banco de dados
+
+
 Criação do banco de dados
 CREATE DATABASE BD_CONSULTORIO CHARACTER SET utf8 COLLATE utf8_general_ci;
 Criação da tabela médicos
